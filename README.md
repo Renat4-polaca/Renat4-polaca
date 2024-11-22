@@ -55,3 +55,234 @@ https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
 </html>
 
 3-
+
+<htlm lang= "pt-BR">
+
+<read>
+<link rel= "stylesheet" hre= styles.css">
+<title>Polaca</title>
+</read>
+
+<body>
+  <header>Polaca</header
+
+<section class="chamada">
+<div class="chamada-texto">
+<h1> A BAILARINA </h1>
+<p> Resumo Do Filme</p>
+<p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
+  <div>
+
+
+https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+
+</div>
+
+</section>
+
+</body>
+</html>
+
+4-
+
+<htlm lang= "pt-BR">
+
+<read>
+<link rel= "stylesheet" hre= styles.css">
+<title>Polaca</title>
+</read>
+
+<body>
+  <header>Polaca</header
+
+<section class="chamada">
+<div class="chamada-texto">
+<h1> A BAILARINA </h1>
+<p> Resumo Do Filme</p>
+<p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
+  <div>
+
+
+https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+
+</div>
+
+</section>
+
+</body>
+</html>
+
+5-
+
+<htlm lang= "pt-BR">
+
+<read>
+<link rel= "stylesheet" hre= styles.css">
+<title>Polaca</title>
+</read>
+
+<body>
+  <header>Polaca</header
+
+<section class="chamada">
+<div class="chamada-texto">
+<h1> A BAILARINA </h1>
+<p> Resumo Do Filme</p>
+<p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
+  <div>
+
+
+https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+
+</div>
+
+</section>
+
+</body>
+</html>
+
+6-
+
+<htlm lang= "pt-BR">
+
+<read>
+<link rel= "stylesheet" hre= styles.css">
+<title>Polaca</title>
+</read>
+
+<body>
+  <header>Polaca</header
+
+<section class="chamada">
+<div class="chamada-texto">
+<h1> A BAILARINA </h1>
+<p> Resumo Do Filme</p>
+<p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
+  <div>
+
+
+https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+
+</div>
+
+</section>
+
+</body>
+</html>
+
+7-
+
+
+<htlm lang= "pt-BR">
+
+<read>
+<link rel= "stylesheet" hre= styles.css">
+<title>Polaca</title>
+</read>
+
+<body>
+  <header>Polaca</header
+
+<section class="chamada">
+<div class="chamada-texto">
+<h1> A BAILARINA </h1>
+<p> Resumo Do Filme</p>
+<p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
+  <div>
+
+
+https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+
+</div>
+
+</section>
+
+</body>
+</html>
+
+8-
+
+<htlm lang= "pt-BR">
+
+<read>
+<link rel= "stylesheet" hre= styles.css">
+<title>Polaca</title>
+</read>
+
+<body>
+  <header>Polaca</header
+
+<section class="chamada">
+<div class="chamada-texto">
+<h1> A BAILARINA </h1>
+<p> Resumo Do Filme</p>
+<p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
+  <div>
+
+
+https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+
+</div>
+
+</section>
+
+</body>
+</html>
+
+9-
+
+<htlm lang= "pt-BR">
+
+<read>
+<link rel= "stylesheet" hre= styles.css">
+<title>Polaca</title>
+</read>
+
+<body>
+  <header>Polaca</header
+
+<section class="chamada">
+<div class="chamada-texto">
+<h1> A BAILARINA </h1>
+<p> Resumo Do Filme</p>
+<p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
+  <div>
+
+
+https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+
+</div>
+
+</section>
+
+</body>
+</html>
+
+10-
+
+<htlm lang= "pt-BR">
+
+<read>
+<link rel= "stylesheet" hre= styles.css">
+<title>Polaca</title>
+</read>
+
+<body>
+  <header>Polaca</header
+
+<section class="chamada">
+<div class="chamada-texto">
+<h1> A BAILARINA </h1>
+<p> Resumo Do Filme</p>
+<p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
+  <div>
+
+
+https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+
+</div>
+
+</section>
+
+</body>
+</html>
