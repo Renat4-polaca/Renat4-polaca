@@ -128,11 +128,11 @@ https://youtu.be/cqJm58oZr7c?feature=shared
 <div class="chamada-texto">
 <h1> A ERA DO GELO 2 </h1>
 <p> Resumo Do Filme</p>
-<p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
+<p>Uma enorme barreira de gelo que separa o oceano de onde vivem está prestes a se quebrar, ameaçando todo o vale com futuras enchentes. A única chance de sobrevivência se encontra na outra ponta deste vale. Mais uma vez, eles se unem para salvar - não só uns aos outros - mas todos os animais.</p>
   <div>
 
 
-https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+https://youtu.be/U-u1OJyCEFI?feature=shared
 
 </div>
 
