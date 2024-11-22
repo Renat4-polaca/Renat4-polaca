@@ -99,11 +99,11 @@ https://youtu.be/cCE7EAUHcIM?feature=shared
 <div class="chamada-texto">
 <h1> ALADDIN </h1>
 <p> Resumo Do Filme</p>
-<p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
+<p>Um jovem humilde descobre uma lâmpada mágica com um gênio que pode conceder desejos. Agora, o rapaz quer conquistar a moça por quem se apaixonou, mas o que ele não sabe é que a jovem é uma princesa que já está comprometida</p>
   <div>
 
 
-https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+https://youtu.be/cqJm58oZr7c?feature=shared
 
 </div>
 
