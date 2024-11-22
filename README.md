@@ -68,7 +68,7 @@ https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
 
 <section class="chamada">
 <div class="chamada-texto">
-<h1> A BAILARINA </h1>
+<h1> O GRINCH </h1>
 <p> Resumo Do Filme</p>
 <p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
   <div>
@@ -97,7 +97,7 @@ https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
 
 <section class="chamada">
 <div class="chamada-texto">
-<h1> A BAILARINA </h1>
+<h1> ALADDIN </h1>
 <p> Resumo Do Filme</p>
 <p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
   <div>
@@ -126,7 +126,7 @@ https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
 
 <section class="chamada">
 <div class="chamada-texto">
-<h1> A BAILARINA </h1>
+<h1> A ERA DO GELO 2 </h1>
 <p> Resumo Do Filme</p>
 <p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
   <div>
@@ -155,7 +155,7 @@ https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
 
 <section class="chamada">
 <div class="chamada-texto">
-<h1> A BAILARINA </h1>
+<h1> PEDRO O COELHO </h1>
 <p> Resumo Do Filme</p>
 <p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
   <div>
@@ -185,7 +185,7 @@ https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
 
 <section class="chamada">
 <div class="chamada-texto">
-<h1> A BAILARINA </h1>
+<h1> O REI LEÃO </h1>
 <p> Resumo Do Filme</p>
 <p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
   <div>
@@ -214,7 +214,7 @@ https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
 
 <section class="chamada">
 <div class="chamada-texto">
-<h1> A BAILARINA </h1>
+<h1> VIDA DE INSETO </h1>
 <p> Resumo Do Filme</p>
 <p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
   <div>
@@ -243,7 +243,7 @@ https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
 
 <section class="chamada">
 <div class="chamada-texto">
-<h1> A BAILARINA </h1>
+<h1> TOY STORY 3 </h1>
 <p> Resumo Do Filme</p>
 <p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
   <div>
@@ -272,7 +272,7 @@ https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
 
 <section class="chamada">
 <div class="chamada-texto">
-<h1> A BAILARINA </h1>
+<h1> DETONA RALF </h1>
 <p> Resumo Do Filme</p>
 <p>Uma sonhadora menina órfã toma uma atitude arriscada: fugir para Paris e realizar o sonho de ser uma grande bailarina. Lá, ela decide se passar por outra pessoa, e consegue uma vaga no Grand Opera, onde vai aprontar muitas aventuras</p>
   <div>
