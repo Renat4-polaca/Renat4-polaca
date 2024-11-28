@@ -17,7 +17,7 @@
 <div>
 
 
-https://youtu.be/simTHZkOPv8?si=TxpvQhDdaiDKzGyM
+<iframe width="560" height="315" src="https://www.youtube.com/embed/simTHZkOPv8?si=x1pQa3Jx2PjE0vG2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </section>
@@ -45,7 +45,7 @@ https://youtu.be/simTHZkOPv8?si=TxpvQhDdaiDKzGyM
   <div>
 
 
-https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Srga2h4e8Vw?si=VqQrgndzPDrPs8rm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
@@ -74,7 +74,7 @@ https://youtu.be/Srga2h4e8Vw?si=wo0QUrCNa72jLCH0
   <div>
 
 
-https://youtu.be/cCE7EAUHcIM?feature=shared
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cCE7EAUHcIM?si=RmsGHvsMVQwx2c80" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
@@ -103,7 +103,7 @@ https://youtu.be/cCE7EAUHcIM?feature=shared
   <div>
 
 
-https://youtu.be/cqJm58oZr7c?feature=shared
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cqJm58oZr7c?si=vqV0zc7o2Kj1uQNV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
@@ -132,8 +132,7 @@ https://youtu.be/cqJm58oZr7c?feature=shared
   <div>
 
 
-https://youtu.be/U-u1OJyCEFI?feature=shared
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U-u1OJyCEFI?si=3pFLCt31AYh0_fkQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </section>
@@ -161,8 +160,7 @@ https://youtu.be/U-u1OJyCEFI?feature=shared
   <div>
 
 
-https://youtu.be/Z5zBXpT7uPo?si=dBPlSnSHPRUBP2Ln
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z5zBXpT7uPo?si=2oNEiT4QPovb_oxw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </section>
