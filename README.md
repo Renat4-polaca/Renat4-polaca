@@ -1,5 +1,5 @@
 1-
-<htlm lang= "pt-BR">
+<html lang= "pt-BR">
 
 <read>
 <link rel= "stylesheet" hre= styles.css">
