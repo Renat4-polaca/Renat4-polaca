@@ -190,8 +190,8 @@ A história acompanha o crescimento do jovem leão Simba, destinado a se tornar 
   <div>
 
 
-https://youtu.be/Ji9kVATf0p8?feature=shared
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ji9kVATf0p8?si=_nGdIOeXNo6MLVmv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 </section>
@@ -219,7 +219,7 @@ https://youtu.be/Ji9kVATf0p8?feature=shared
   <div>
 
 
-https://youtu.be/r3jp13RYXyI?si=g-UGfKCYm4vEXqu0
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r3jp13RYXyI?si=LJcfq9_-iu2LGlu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
@@ -248,7 +248,7 @@ https://youtu.be/r3jp13RYXyI?si=g-UGfKCYm4vEXqu0
   <div>
 
 
-https://youtu.be/TOa15DC81Mw?feature=shared
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TOa15DC81Mw?si=S_wkB3s_oyqgy-iw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
@@ -277,7 +277,7 @@ https://youtu.be/TOa15DC81Mw?feature=shared
   <div>
 
 
-https://youtu.be/Faet143isJo?feature=shared
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Faet143isJo?si=8XsY7nalfSvtDIp7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </div>
 
